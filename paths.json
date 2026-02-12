@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/697c5febf95aba1b0349102e/language-masters/en:/",
-    "/content/697c5febf95aba1b0349102e/language-masters/en/:/",
-    "/content/697c5febf95aba1b0349102e/language-masters/en/:/en/",
-    "/content/697c5febf95aba1b0349102e/configuration:/.helix/config.json",
-    "/content/697c5febf95aba1b0349102e/metadata:/metadata.json",
-    "/content/697c5febf95aba1b0349102e/redirects:/redirects.json",
-    "/content/697c5febf95aba1b0349102e/placeholders:/placeholders.json",
-    "/content/697c5febf95aba1b0349102e/custom-events:/custom-events.json"
+    "/content/698df2e5111850bf99d5f0b8/language-masters/en:/",
+    "/content/698df2e5111850bf99d5f0b8/language-masters/en/:/",
+    "/content/698df2e5111850bf99d5f0b8/language-masters/en/:/en/",
+    "/content/698df2e5111850bf99d5f0b8/configuration:/.helix/config.json",
+    "/content/698df2e5111850bf99d5f0b8/metadata:/metadata.json",
+    "/content/698df2e5111850bf99d5f0b8/redirects:/redirects.json",
+    "/content/698df2e5111850bf99d5f0b8/placeholders:/placeholders.json",
+    "/content/698df2e5111850bf99d5f0b8/custom-events:/custom-events.json"
   ],
   "includes": [
-    "/content/697c5febf95aba1b0349102e/",
-    "/content/dam/697c5febf95aba1b0349102e/"
+    "/content/698df2e5111850bf99d5f0b8/",
+    "/content/dam/698df2e5111850bf99d5f0b8/"
   ]
 }
